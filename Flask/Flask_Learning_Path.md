@@ -74,6 +74,8 @@ if __name__ == "__main__":
 		* [Example 2]
 		* [Example 3]
 
+* **Other Materials**: Udacity & Twitter University teaches the very basic, but there seems to be a lot more beyond templates, static resources, and databases, such as login, search, Ajax, internationalization/localization...etc. You can learn more from [The Flask Mega-Tutorial].
+
 * **Deploying our web application**:
 	* Twitter University's Deploy Flask at Twitter is a great video, which tells you how to do it the Twitter way, and it teaches things like `pants`, `pex`, `packer`, `aurora`, and `mesos`.
 		* You use `pants` to manage dependencies and build a `.pex` file
@@ -88,6 +90,7 @@ if __name__ == "__main__":
 [decorator tutorial]: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 [Designing a RESTful API with Python and Flask]: http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 [Full Stack Python]: http://www.fullstackpython.com/
+[The Flask Mega-Tutorial]: http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 [Example 1]: http://flask.theoryandpractice.org/
 [Example 2]: https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/
 [Example 3]: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
