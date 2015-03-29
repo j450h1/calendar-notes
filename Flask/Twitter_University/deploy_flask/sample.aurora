@@ -1,0 +1,28 @@
+webapp_package_installer = Packer.install(name='webapp', version='{{pkg_version}}')
+
+resources = Resources(cpu=1, ram=(512 * MB), disk=(1 * GB))
+process = Process(name='process', cmdline='python2.7 webapp-cherrypy.pex {{thermos.ports[http]}}')
+
+procList = [webapp_package_installer, process]
+
+webapp_task = SequentialTask(processes=procList, resources=resources)
+
+# UpdateConfig lets you configure rolling restart process. 
+updateCfg = UpdateConfig()
+# Announcer determines how your job is discovered.
+# The HTTP port of each task is registered by default.
+announcer = Announcer()
+
+webapp_devel = Service(contact='sfranklin@twitter.com@twitter.com',
+                       cluster='smf1',
+                       environment='devel',
+                       role='sfranklin',
+                       name='webapp',
+                       task=webapp_task,
+                       instances=1,
+                       production=False,
+                       update_config=updateCfg,
+                       announce=announcer)
+jobs = [
+ webapp_devel.bind(pkg_version='latest')
+]

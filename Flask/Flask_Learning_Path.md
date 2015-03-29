@@ -17,7 +17,7 @@ As a result, I decided to embark my journey in learning flask. In the following 
 
 ### Flask Learning Path
 
-Flask is an python microframework for web development. Check out this [intro]. There are a handful of basic concepts you need to master:
+Flask is an python microframework for web development. Check out this [Intro]. There are a handful of basic concepts you need to master:
 
 * **Creating a app**: Creating an app is as easy as the following 7 lines of code
 
@@ -70,9 +70,9 @@ if __name__ == "__main__":
 
 * **Flask + d3.js**:
 	* Once you create a lightweight web application, don't forget the whole point is to integrate it with cool visualization in d3. Here are some examples
-		* [Example 1]: http://flask.theoryandpractice.org/
-		* [Example 2]: https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/
-		* [Example 3]: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
+		* [Example 1]
+		* [Example 2]
+		* [Example 3]
 
 * **Deploying our web application**:
 	* Twitter University's Deploy Flask at Twitter is a great video, which tells you how to do it the Twitter way, and it teaches things like `pants`, `pex`, `packer`, `aurora`, and `mesos`.
@@ -81,10 +81,13 @@ if __name__ == "__main__":
 		* `packer` is just a version control tool that allows you to version your executables.
 		* `Aurora` is the client which allows you to schedule jobs on the Twitter internal Cloud
 		* `Mesos` is essentially the Twitter version of AWS that allows you to take arbitrary resources and schedule production jobs
-	* For General deployment, check out [intro] or [Full Stack Python]
+	* For General deployment, check out [Intro] or [Full Stack Python]
 
 [quora post]: http://www.quora.com/Should-I-learn-Flask-or-Django
 [Intro]: http://nbviewer.ipython.org/github/jackgolding/FullStackDataAnalysis/blob/master/Web%20Development%20with%20Flask.ipynb
 [decorator tutorial]: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
 [Designing a RESTful API with Python and Flask]: http://blog.miguelgrinberg.com/post/designing-a-restful-api-with-python-and-flask
 [Full Stack Python]: http://www.fullstackpython.com/
+[Example 1]: http://flask.theoryandpractice.org/
+[Example 2]: https://realpython.com/blog/python/web-development-with-flask-fetching-data-with-requests/
+[Example 3]: http://adilmoujahid.com/posts/2015/01/interactive-data-visualization-d3-dc-python-mongodb/
