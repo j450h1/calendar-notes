@@ -112,6 +112,41 @@ _What we know, is that **people fight desires all day long**, desire turned out 
     * Downtime helps recahrge the energy needed to work deeply
     * The work that evening downtime replaces is usually not that important 
 
+## Embrace Boredom
+
+Rule 1 above taught us how to integrate deep work into our daily schedule and support it with routines and rituals designed to help you reach the limit. This section will help you significantly improve your limit of concentration. The key idea is that getting the most out of your deep work habit requires training, specifically to improve your ability to concentrate intensely and overcoming desire for distraction.
+
+* **Don't Take Breaks From Distraction. Instead Take Breaks From Focus**: to succeed with deep work you must rewire your brain to be comfortable resisting distracting stimuli. This doesn't mean that you have to eliminate distracting behaviors; it's sufficient that you instead eliminate the ability of such beaviors to hijack your attention. Internet blocks is one such tactics.
+
+    * Schedule in advance when you'll use the internet, and then avoid it altogether outside these times: it's not about internet usage itself, but the constant switching that teaches your mind to never tolerate an absence of novelty. This weakens your concentration muscles.
+
+        * This strategy works even if your job rquires lots of internet use and/or prompt e-mail replies: The total number or duration of your internet blocks doens't matter naearly as much as making sure that the integrity of your offline blocks remains intact.
+
+        * Regardless of how you schedule your internet blocks, you must keep the time outside tehse blocks absolutely free from internet use: I still find this a bit questionable
+
+        * Scheduling internet use at home as well as at work can further iprove your concentration training
+
+* **Work Like Teddy Roosevelt**
+
+    * Identify a deep task. Estimate how long you'd normally put aside for an obligation of this type, then give yourself a hard deadline that drastically reduces this time. This earlier deadline forces you to work with great intensity.
+
+    * Don't try this experiment more than once a week at first - giving your brain practice with intensity, but also giving it rest. Once you feel confident in your ability to trade concentration for completion time, increase the frequency.
+
+* **Meditate Productively**
+
+    * Take a period in which your've occupied physically but not mentally - walking, jogging, driving, showering - and focus your attention on a single well-defined professional problem. 
+
+        * Be Wary Of Distractions And Looping: 
+            * when you notice your attention slipping away, gently remind yourslef that you can return to that thought later, then redirect yoru attention back. 
+            * Looping: your mind will attempt to avoid excess expenditure of energy when possible. one way to d othat is to avoid diving deeper into the probelm by instead looping over and over again on what you already know.
+
+        * Structure Your Deep Thinking
+            * Start with a careful review of the relevant variables for solving the problems and store these in your working memory
+            * Define the specific next-step question you need t oanswer using these variables
+            * Consolidate your gain by reviewing clearly the answer you identified
+
+* **Memorize A Deck Of Cards**: training using memory palace. The key to this strategy is not the specifics, but instead the motivating idea that your ability to concentrate is only as strong as your commitment to train it.
+
 
 ## Misc
 
