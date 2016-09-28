@@ -104,7 +104,7 @@ _What we know, is that **people fight desires all day long**, desire turned out 
     Have good separation of deep work and rest, a shutting down routine, which based on two premises:
 
     * You have a plan you trust for its completion
-    * It's captured in a palce where it will be revisited when the time is right
+    * It's captured in a place where it will be revisited when the time is right
 
     Reasons why shutting down is good:
 
@@ -146,6 +146,47 @@ Rule 1 above taught us how to integrate deep work into our daily schedule and su
             * Consolidate your gain by reviewing clearly the answer you identified
 
 * **Memorize A Deck Of Cards**: training using memory palace. The key to this strategy is not the specifics, but instead the motivating idea that your ability to concentrate is only as strong as your commitment to train it.
+
+## Quit Social Media
+
+The distraction of social media and infotainment are serious. These tools fragment our time and reduce our ability to concentrate. The problem is dire if you're attempting improve ability to work deeply, because willpower is limited, and therefore the more enticing tools you have pulling at your attention, the harder it'll be to maintain focus on something important. To master the art of deep work, you must take back control of your time and attention from these sources of distraction. 
+
+Internet can provide enormous values, and it's unrealistic to give up internet altogether just to avoid distraction, so how do we reconciliate this. Cal argues that the crucial thing is our attitude to **tool selection**. Here are two tool selection philosophies:
+
+* **The Any-Benefit Approach to network Tool Selection**: You're justified in using a network tool if you can identify _any_ possible benefit to its use, or _anything_ you might possibly miss out on if you don't use it.
+
+* **The Craftsman Approach to Tool Selection**: Identify the core factors that determine success and happiness in your professional and personal life. Adopt a tool only if its positive impacts on these factors substaintially outweigh its negative impacts.
+
+The problem with the _any-benefit_ approach is that it ignores all the potential negatives that come along with the tools in question. The _craftsman approach_ to tool selection, is a lot more selective in weighing the pros and cons of using that tool.
+
+* **Apply the Law of the Vital Few to Your Internet Habits**: 
+
+    * Identify the main high level goals in both your professional and your personal life
+    * List out for each the two or three most important activities that help you to achieve the goals. They should be specific enough to allow you to clealry picture doing them, but not so specific that it ties to a one time outcome.
+    * Next, consider the network tools you currently use. For each such tool, go through the key activities you identified and ask whether the use of the tool has a substantially positive impact, a substantially negative impact, or little impact on your regular and successful participation in the activity.
+    * Now the important decision - keep using this tool only if you concluded that it has substantial positive impacts and that these outweigh the negative impacts.
+
+All these is motivated by **The Law of the Vital Few**, sometimes also called the **80/20** rule. In many settings, 80 percent of a given effect is due to just 20 percent of thep ossible causes. Mathematically, it says that things follow a power law distribution. And the lesson here is that contributions to an outcome are not evenly distributed.
+
+All activities, regardless of their importance, consume your same limited store of time and attention. If you service low-impact activities, therefore, you're taking away time you could be spending on higher-impact activities. It's a zero-sum game. And because your time returns substantially more rewards when invested in high-impact activities than when invested in low-impact activities, the more of it you shift to the latter, the lower your overall benefit. 
+
+* **Quit Social Media Experiment**
+
+    * Ban yourself form using internet services for thirty days
+    * Then by the end of the 30 day experiment, ask yourself:
+        * Would the last thrity days have been notably better if I had been able to use this service?
+        * Did people care that I wasn't using this service?
+    * If both are yes, then perhaps this tool has significance to you. But even then you should follow the vital few principle to carefully decide if this tool is for you.
+
+* **Don't Use the Internet to Entertain Yourself**
+
+    * Arnold Bennett: "_great and profound mistake which my typical man makes in regard to his day, is that even though he deons't particularly enjoy his work, he persists in looking upon those hours from ten to six as the day, to which the ten hours preceding them and six hours following them are nothing but a prologue and epilogue. This is utterly illogical and unhealthy._" Bennett advociate the idea of "day within a day" - a man should and can make deliberate use of your time outside work, and put more thoughts into your leisure time.
+    * Plan in advance what you're going to do with your evenings and weekends before they begin.
+    * Structured hobbies provide good fodder for these hours, as they generate specific actions with specific goals to fill your time.
+
+At this point you might worry that adding such structure to your relaxation will defeat the purpose of relaxiing, which many believe requires complete freedom from plans or obligations. Bennett, anticipated this complaint, and gave an elegant answer: 
+
+"_What? You say that full energy given to those sixteen hours will lessen the value of the business eight? Not so. On the contrary, it will assuredly increase the value of the business eight. One of the chief things which my thypical man has to learn is that the mental faculties are capable of a continuous hard activity; they do not tire like an arm or a leg. All they want is change, not rest, except in sleep._"
 
 
 ## Misc
