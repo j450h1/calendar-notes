@@ -188,6 +188,64 @@ At this point you might worry that adding such structure to your relaxation will
 
 "_What? You say that full energy given to those sixteen hours will lessen the value of the business eight? Not so. On the contrary, it will assuredly increase the value of the business eight. One of the chief things which my thypical man has to learn is that the mental faculties are capable of a continuous hard activity; they do not tire like an arm or a leg. All they want is change, not rest, except in sleep._"
 
+## Drain the Shallows
+
+The thesis of this chapter is that shallow work increasingly dominates the time and attention of knowledge workers. The problem with shallow works is that if they take up a lot of time, but if you eliminate them, they don't reallly affect the bottom line. Therefore, it's importantly to ruthlessly identify the shallowness in your current schedule, then cull it down to minimum levels - leaving more time for the deep efforts that ultimately matter most.
+
+* **Schedule Every Minute Of Your Day**
+
+    * At the beginning of each day, plan your day. Divide the hours your workday into _blocks_ and assign activities to the blocks. Every minute should be part of a block. As you go through the day, follow this schedule.
+
+    * If your schedule is disrupted, you should, at the next available moment, take a few minutes to create a revised schedule. The goal is not to stick to a given schedule at all costs, it's instead to maintain, at all time, a thoughtful say in what your've doing with your time going forward.
+
+    * If you find that schedule revisions become overwhelming in their frequency, recognize that you're almost definitely underestimating how much time you're going to need, do not fall into the trap of creating a base-case scenario wishful thinking schedule. If this does happen
+        * Use the _overflow conditional_ blocks - if you are not sure how much time a task will take, block additional time as buffer zone.
+        * Be liberal with _task blocks_ - have regularly occurring blocks of time to address surprises keeps things running smoothly.
+
+    * In addition to regular schedules, you can adopt a rule that if you stumble onto an important insight, then this is a perfectly valid reason to ignore the rest of the schedule for the day. Stick with this unexpected insight until it loses steam. By then, step back and rebuild the schedule.
+
+* **Quantify The Depth Of Every Activity**
+
+    * To quantify shallow work, use the following evaluation criterion: **How long would it take (in months) to train a smart recent college graduate with no specialized training in my field to complete this task?**. If a task requires many months of training to replicate a task, then this indicates that the task leverages hard-won expertise. 
+
+    * Once you know where your activities fall on the deep-to-shallow scale, bias your time toward the former. 
+
+* **Ask Your Boss for a Shallow Work Budget**
+
+    * Here is an important question that's rarely asked: _What percentage of my time should be spent on shallow work?_ Minimizing this percentage realistically will change your behaviors. You will be selective and say no to shallow projects, be more protective your time, and they force you to place a hard limit on the amount of less urgent obligation to creep your schedule. 
+
+    * The reason why these decisions should start with a conversation with your boss is that this agreement establishes implict support from your workplace. This conversation will force the boss to give explicit approval for that ratio. Faced with these numbers, and the economic reality that it's incredibly wasteful to pay a highly trained professional to send emails and attend meetings, a boss will be led to the natural conclusio nthat you _need_ to say no to some shallow work to streamline for deeper work.
+
+* **Finish Your Work By Five Thirty**
+
+    * _Fixed Schedule Productivity_: fix a firm goal of not working apst a certain tme, then work backward to find productivity strategies that allow you to satisfy this declaration.
+        * Be very selective about saying yes to work that will yield shallow work
+        * Be claer in the refusal but ambiguous in the explanation
+        * Be incredible conscientious about managing time
+
+    * This strategy frees up our time without diminishing the amount of new value we generate. It allows us to produce more than if we had defaulted to a more typical crowded schedule. The limits to our time necessitate more careful thinking about our organizational habits.
+
+* **Become Hard to Reach**
+
+    * Make people who send you e-mail do more work
+      
+      * One approach is called _sender filter_ - asking the correspondents to filter themselves before attempting to contact. 
+      * Cal even goes as far as "I'll only respond to those proposals that are a good match for my schedule and interests". The advantage is that it changes the _expectation_ of whether the correspondent will receive a response, which frees you from the guilt of not replying.
+
+    * Do more work when you send or reply to e-mails: Before sending a quick response, pause a moment before replying and take the time to answer the following key prompt:
+            
+        * What is the project represented by this message?
+        * What is the most efficient (in terms of messages generated) process for bringing this project to a successful conclusion?
+
+        He call this the _process-centric approach_ to e-mails. The goal is to use this message to "close the loop".
+
+    * Do not Reply: Do not reply to an e-mail message if any of the following applies
+
+        * It's ambiguous or otherwise makes it hard for you to generate a reasonable response
+        * It's not a question or proposal that interests you
+        * Nothing really good would happen if you did respond and nothing really bad would happen if you didn't
+
+        From Tim Ferris: "Deveop the habit of letting small bad things happen. If you don't, you'll never find time for the life-changing big things."
 
 ## Misc
 
